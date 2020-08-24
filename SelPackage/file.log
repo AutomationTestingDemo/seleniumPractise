@@ -1,0 +1,23 @@
+CRITICAL:root:This is critical
+ERROR:root:this is error
+WARNING:root:this is warning
+DEBUG:root:This is debug
+CRITICAL:root:This is critical
+ERROR:root:this is error
+INFO:root:this is info
+WARNING:root:this is warning
+2020-08-15 16:53:12,129: DEBUG: This is debug
+2020-08-15 16:53:12,152: CRITICAL: This is critical
+2020-08-15 16:53:12,152: ERROR: this is error
+2020-08-15 16:53:12,152: INFO: this is info
+2020-08-15 16:53:12,153: WARNING: this is warning
+2020-08-15 16:53:23,409: DEBUG: This is debug
+2020-08-15 16:53:23,410: CRITICAL: This is critical
+2020-08-15 16:53:23,410: ERROR: this is error
+2020-08-15 16:53:23,410: INFO: this is info
+2020-08-15 16:53:23,410: WARNING: this is warning
+2020-08-15 16:53:30,313: DEBUG: This is debug
+2020-08-15 16:53:30,314: CRITICAL: This is critical
+2020-08-15 16:53:30,314: ERROR: this is error
+2020-08-15 16:53:30,314: INFO: this is info
+2020-08-15 16:53:30,315: WARNING: this is warning

@@ -1,0 +1,6 @@
+[0812/153247.111:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir8248_124710221\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0812/201510.576:ERROR:file_io_win.cc(179)] CreateFile C:\Users\KaLyAn\AppData\Local\Temp\scoped_dir8076_457369777\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0818/111946.488:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0818/111946.499:ERROR:exception_snapshot_win.cc(98)] thread ID 5744 not found in process
+[0818/111946.611:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0818/111946.611:ERROR:exception_snapshot_win.cc(98)] thread ID 10804 not found in process

@@ -1,0 +1,10 @@
+1596706306019	geckodriver	INFO	Listening on 127.0.0.1:50343
+1596706599101	geckodriver	INFO	Listening on 127.0.0.1:50526
+1596706602056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\KaLyAn\\AppData\\Local\\Temp\\rust_mozprofilemY2PMi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596706610346	Marionette	INFO	Listening on port 50534
+1596706610543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1596707117833	Marionette	INFO	Stopped listening on port 50534
