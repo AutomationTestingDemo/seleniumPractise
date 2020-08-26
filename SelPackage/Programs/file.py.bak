@@ -1,0 +1,7 @@
+f= open('fileops.txt','x')
+print('name of the file', f.name)
+print('mode of the file', f.mode)
+print('is file readable?', f.readable())
+print('is file writable?', f.writable())
+f.close()
+print('is file closed?', f.closed)

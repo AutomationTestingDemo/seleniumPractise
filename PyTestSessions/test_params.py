@@ -1,4 +1,3 @@
-import self as self
 from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
@@ -29,9 +28,8 @@ def Datavalues():
     wb = xlrd.open_workbook("C:\Selenium_Python\SelPackage\ReadData.xlsx")
     sh = wb.sheet_by_name("Login")
     rcount=sh.nrows
-    t=()
+    # t=()
     l.clear()
-
     for x in range(1,rcount):
         username = sh.cell_value(x,0)
         pwd =sh.cell_value(x,1)

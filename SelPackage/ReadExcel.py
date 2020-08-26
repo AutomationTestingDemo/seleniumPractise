@@ -15,7 +15,7 @@ rowCount = sh.nrows
 colCount=sh.ncols
 print(rowCount)
 print(colCount)
-for cur_row in range(1,rowCount):
+for cur_row in range(1,rowCount+1):
     username = sh.cell_value(cur_row,0)
     pwd = sh.cell_value(cur_row,1)
     print(username, pwd)

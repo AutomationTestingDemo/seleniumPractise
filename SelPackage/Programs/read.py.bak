@@ -1,0 +1,6 @@
+f = open('write.txt','r')
+data=f.readline()
+list=f.readlines()
+for l in list:
+	print(l)
+f.close()
